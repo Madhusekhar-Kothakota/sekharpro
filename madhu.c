@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("madhuuu");
-
+    printf(" hellomadhuuu");
+    printf(" welcome to c programming");
 }
